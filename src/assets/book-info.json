@@ -1,0 +1,398 @@
+{
+    "title": "日剧中的标准日本语 初级",
+    "units": [
+        {
+            "title": "第一单元 小李赴日",
+            "lessons": [
+                {
+                    "title": "第１課 李さんは中国人です",
+                    "patterns": [
+                        {
+                            "title": "～は～です",
+                            "content": []
+                        },
+                        {
+                            "title": "～は～ではありません",
+                            "content": []
+                        },
+                        {
+                            "title": "～は～ですか",
+                            "content": []
+                        },
+                        {
+                            "title": "～の～",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第２課 これは本です",
+                    "patterns": [
+                        {
+                            "title": "これ／それ／あれは～です",
+                            "content": []
+                        },
+                        {
+                            "title": "だれですか／なんですか",
+                            "content": []
+                        },
+                        {
+                            "title": "～の～",
+                            "content": []
+                        },
+                        {
+                            "title": "この／その／あの／～は～です",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第３課 ここはデパートです",
+                    "patterns": [
+                        {
+                            "title": "ここ／そこ／あそこは～です",
+                            "content": []
+                        },
+                        {
+                            "title": "～は～（場所）です",
+                            "content": []
+                        },
+                        {
+                            "title": "～も～です",
+                            "content": []
+                        },
+                        {
+                            "title": "～は～ですか、～ですか",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第４課 部屋に機といすがあります",
+                    "patterns": [
+                        {
+                            "title": "～に～があります",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～がいます",
+                            "content": []
+                        },
+                        {
+                            "title": "～は～にあります",
+                            "content": []
+                        },
+                        {
+                            "title": "～は～にいます",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第二单元 小李的公司生活——1",
+            "lessons": [
+                {
+                    "title": "第５課 森さんは７時に起きます",
+                    "patterns": [
+                        {
+                            "title": "今～時～分です",
+                            "content": []
+                        },
+                        {
+                            "title": "～（時間）に～",
+                            "content": []
+                        },
+                        {
+                            "title": "～から～まで",
+                            "content": []
+                        },
+                        {
+                            "title": "いつ～",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第６課 吉田さんは来月中国へ行きます",
+                    "patterns": [
+                        {
+                            "title": "～へ～",
+                            "content": []
+                        },
+                        {
+                            "title": "～から～",
+                            "content": []
+                        },
+                        {
+                            "title": "～と",
+                            "content": []
+                        },
+                        {
+                            "title": "～で",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第７課　李さんは毎日コーヒーを飲みます",
+                    "patterns": [
+                        {
+                            "title": "～を～",
+                            "content": []
+                        },
+                        {
+                            "title": "～で",
+                            "content": []
+                        },
+                        {
+                            "title": "～か～",
+                            "content": []
+                        },
+                        {
+                            "title": "～をください",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第８課 李さんは日本語で手紙を書きます",
+                    "patterns": [
+                        {
+                            "title": "～で～",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をあげます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をもらいます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に会います",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第三单元 小李在箱根",
+            "lessons": [
+                {
+                    "title": "第９課 ",
+                    "patterns": [
+                        {
+                            "title": "～で～",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をあげます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をもらいます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に会います",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第１０課 李さんは日本語で手紙を書きます",
+                    "patterns": [
+                        {
+                            "title": "～で～",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をあげます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をもらいます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に会います",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第１１課 李さんは日本語で手紙を書きます",
+                    "patterns": [
+                        {
+                            "title": "～で～",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をあげます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をもらいます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に会います",
+                            "content": []
+                        }
+                    ]
+                },
+                {
+                    "title": "第１２課 李さんは日本語で手紙を書きます",
+                    "patterns": [
+                        {
+                            "title": "～で～",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をあげます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に～をもらいます",
+                            "content": []
+                        },
+                        {
+                            "title": "～に会います",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第四单元 小李的公司生活——2",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第五单元 小李在日本迎新春",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第六单元 再见！日本",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第七单元 森赴日本",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第八单元 余暇",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第九单元 小野赴北京",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第十单元 浏览北京",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第十一单元 在北京的工作情况",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "第十二单元 新的拓展",
+            "lessons": [
+                {
+                    "title": "第一课 小李是中国人",
+                    "patterns": [
+                        {
+                            "title": "~ ha desu ",
+                            "content": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
