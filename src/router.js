@@ -1,15 +1,22 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from './views/Home.vue'
+import player from './views/Player.vue'
+import Home from "./views/Home.vue"
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
     routes: [
         {
             path: '/',
-            name: 'home',
-            component: Home
+            name: "home",
+            component: Home,
+        },
+        {
+            path: '/:id',
+            name: 'play',
+            component: player,
+            props: true,
         },
         {
             path: '/about',
