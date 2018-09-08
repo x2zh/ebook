@@ -1,394 +1,396 @@
 {
     "title": "日剧中的标准日本语 初级",
+    "video_base_url": "https://vibook.oss-cn-beijing.aliyuncs.com/video/",
+    "video_url_suffix": ".mp4",
     "units": [
         {
-            "title": "第一单元 小李赴日",
-            "lessons": [
+            "label": "第一单元 小李赴日",
+            "children": [
                 {
-                    "title": "第１課 李さんは中国人です",
-                    "patterns": [
+                    "label": "第１課 李さんは中国人です",
+                    "children": [
                         {
-                            "title": "～は～です",
-                            "content": []
+                            "label": "～は～です",
+                            "id": "1-1"
                         },
                         {
-                            "title": "～は～ではありません",
-                            "content": []
+                            "label": "～は～ではありません",
+                            "id": "1-2"
                         },
                         {
-                            "title": "～は～ですか",
-                            "content": []
+                            "label": "～は～ですか",
+                            "id": "1-3"
                         },
                         {
-                            "title": "～の～",
-                            "content": []
+                            "label": "～の～",
+                            "id": "1-4"
                         }
                     ]
                 },
                 {
-                    "title": "第２課 これは本です",
-                    "patterns": [
+                    "label": "第２課 これは本です",
+                    "children": [
                         {
-                            "title": "これ／それ／あれは～です",
-                            "content": []
+                            "label": "これ／それ／あれは～です",
+                            "id": "2-1"
                         },
                         {
-                            "title": "だれですか／なんですか",
-                            "content": []
+                            "label": "だれですか／なんですか",
+                            "id": "2-2"
                         },
                         {
-                            "title": "～の～",
-                            "content": []
+                            "label": "～の～",
+                            "id": "2-3"
                         },
                         {
-                            "title": "この／その／あの／～は～です",
-                            "content": []
+                            "label": "この／その／あの／～は～です",
+                            "id": "2-4"
                         }
                     ]
                 },
                 {
-                    "title": "第３課 ここはデパートです",
-                    "patterns": [
+                    "label": "第３課 ここはデパートです",
+                    "children": [
                         {
-                            "title": "ここ／そこ／あそこは～です",
-                            "content": []
+                            "label": "ここ／そこ／あそこは～です",
+                            "id": "3-1"
                         },
                         {
-                            "title": "～は～（場所）です",
-                            "content": []
+                            "label": "～は～（場所）です",
+                            "id": "3-2"
                         },
                         {
-                            "title": "～も～です",
-                            "content": []
+                            "label": "～も～です",
+                            "id": "3-3"
                         },
                         {
-                            "title": "～は～ですか、～ですか",
-                            "content": []
+                            "label": "～は～ですか、～ですか",
+                            "id": "3-4"
                         }
                     ]
                 },
                 {
-                    "title": "第４課 部屋に機といすがあります",
-                    "patterns": [
+                    "label": "第４課 部屋に機といすがあります",
+                    "children": [
                         {
-                            "title": "～に～があります",
-                            "content": []
+                            "label": "～に～があります",
+                            "id": "4-1"
                         },
                         {
-                            "title": "～に～がいます",
-                            "content": []
+                            "label": "～に～がいます",
+                            "id": "4-2"
                         },
                         {
-                            "title": "～は～にあります",
-                            "content": []
+                            "label": "～は～にあります",
+                            "id": "4-3"
                         },
                         {
-                            "title": "～は～にいます",
-                            "content": []
+                            "label": "～は～にいます",
+                            "id": "4-4"
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第二单元 小李的公司生活——1",
-            "lessons": [
+            "label": "第二单元 小李的公司生活——1",
+            "children": [
                 {
-                    "title": "第５課 森さんは７時に起きます",
-                    "patterns": [
+                    "label": "第５課 森さんは７時に起きます",
+                    "children": [
                         {
-                            "title": "今～時～分です",
-                            "content": []
+                            "label": "今～時～分です",
+                            "id": "5-1"
                         },
                         {
-                            "title": "～（時間）に～",
-                            "content": []
+                            "label": "～（時間）に～",
+                            "id": "5-2"
                         },
                         {
-                            "title": "～から～まで",
-                            "content": []
+                            "label": "～から～まで",
+                            "id": "5-3"
                         },
                         {
-                            "title": "いつ～",
-                            "content": []
+                            "label": "いつ～",
+                            "id": "5-4"
                         }
                     ]
                 },
                 {
-                    "title": "第６課 吉田さんは来月中国へ行きます",
-                    "patterns": [
+                    "label": "第６課 吉田さんは来月中国へ行きます",
+                    "children": [
                         {
-                            "title": "～へ～",
-                            "content": []
+                            "label": "～へ～",
+                            "id": "6-1"
                         },
                         {
-                            "title": "～から～",
-                            "content": []
+                            "label": "～から～",
+                            "id": "6-2"
                         },
                         {
-                            "title": "～と",
-                            "content": []
+                            "label": "～と",
+                            "id": "6-3"
                         },
                         {
-                            "title": "～で",
-                            "content": []
+                            "label": "～で",
+                            "id": "6-4"
                         }
                     ]
                 },
                 {
-                    "title": "第７課　李さんは毎日コーヒーを飲みます",
-                    "patterns": [
+                    "label": "第７課　李さんは毎日コーヒーを飲みます",
+                    "children": [
                         {
-                            "title": "～を～",
-                            "content": []
+                            "label": "～を～",
+                            "id": "7-1"
                         },
                         {
-                            "title": "～で",
-                            "content": []
+                            "label": "～で",
+                            "id": "7-2"
                         },
                         {
-                            "title": "～か～",
-                            "content": []
+                            "label": "～か～",
+                            "id": "7-3"
                         },
                         {
-                            "title": "～をください",
-                            "content": []
+                            "label": "～をください",
+                            "id": "7-4"
                         }
                     ]
                 },
                 {
-                    "title": "第８課 李さんは日本語で手紙を書きます",
-                    "patterns": [
+                    "label": "第８課 李さんは日本語で手紙を書きます",
+                    "children": [
                         {
-                            "title": "～で～",
-                            "content": []
+                            "label": "～で～",
+                            "id": "8-1"
                         },
                         {
-                            "title": "～に～をあげます",
-                            "content": []
+                            "label": "～に～をあげます",
+                            "id": "8-2"
                         },
                         {
-                            "title": "～に～をもらいます",
-                            "content": []
+                            "label": "～に～をもらいます",
+                            "id": "8-3"
                         },
                         {
-                            "title": "～に会います",
-                            "content": []
+                            "label": "～に会います",
+                            "id": "8-4"
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第三单元 小李在箱根",
-            "lessons": [
+            "label": "第三单元 小李在箱根",
+            "children": [
                 {
-                    "title": "第９課 ",
-                    "patterns": [
+                    "label": "第９課 ",
+                    "children": [
                         {
-                            "title": "～で～",
-                            "content": []
+                            "label": "～で～",
+                            "id": "9-1"
                         },
                         {
-                            "title": "～に～をあげます",
-                            "content": []
+                            "label": "～に～をあげます",
+                            "id": "9-2"
                         },
                         {
-                            "title": "～に～をもらいます",
-                            "content": []
+                            "label": "～に～をもらいます",
+                            "id": "9-3"
                         },
                         {
-                            "title": "～に会います",
-                            "content": []
+                            "label": "～に会います",
+                            "id": "9-4"
                         }
                     ]
                 },
                 {
-                    "title": "第１０課 李さんは日本語で手紙を書きます",
-                    "patterns": [
+                    "label": "第１０課 李さんは日本語で手紙を書きます",
+                    "children": [
                         {
-                            "title": "～で～",
-                            "content": []
+                            "label": "～で～",
+                            "id": "10-1"
                         },
                         {
-                            "title": "～に～をあげます",
-                            "content": []
+                            "label": "～に～をあげます",
+                            "id": "10-2"
                         },
                         {
-                            "title": "～に～をもらいます",
-                            "content": []
+                            "label": "～に～をもらいます",
+                            "id": "10-3"
                         },
                         {
-                            "title": "～に会います",
-                            "content": []
+                            "label": "～に会います",
+                            "id": "10-4"
                         }
                     ]
                 },
                 {
-                    "title": "第１１課 李さんは日本語で手紙を書きます",
-                    "patterns": [
+                    "label": "第１１課 李さんは日本語で手紙を書きます",
+                    "children": [
                         {
-                            "title": "～で～",
-                            "content": []
+                            "label": "～で～",
+                            "id": "11-1"
                         },
                         {
-                            "title": "～に～をあげます",
-                            "content": []
+                            "label": "～に～をあげます",
+                            "id": "11-2"
                         },
                         {
-                            "title": "～に～をもらいます",
-                            "content": []
+                            "label": "～に～をもらいます",
+                            "id": "11-3"
                         },
                         {
-                            "title": "～に会います",
-                            "content": []
+                            "label": "～に会います",
+                            "id": "11-4"
                         }
                     ]
                 },
                 {
-                    "title": "第１２課 李さんは日本語で手紙を書きます",
-                    "patterns": [
+                    "label": "第１２課 李さんは日本語で手紙を書きます",
+                    "children": [
                         {
-                            "title": "～で～",
-                            "content": []
+                            "label": "～で～",
+                            "id": "12-1"
                         },
                         {
-                            "title": "～に～をあげます",
-                            "content": []
+                            "label": "～に～をあげます",
+                            "id": "12-2"
                         },
                         {
-                            "title": "～に～をもらいます",
-                            "content": []
+                            "label": "～に～をもらいます",
+                            "id": "12-3"
                         },
                         {
-                            "title": "～に会います",
-                            "content": []
+                            "label": "～に会います",
+                            "id": "12-4"
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第四单元 小李的公司生活——2",
-            "lessons": [
+            "label": "第四单元 小李的公司生活——2",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": ""
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第五单元 小李在日本迎新春",
-            "lessons": [
+            "label": "第五单元 小李在日本迎新春",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第六单元 再见！日本",
-            "lessons": [
+            "label": "第六单元 再见！日本",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第七单元 森赴日本",
-            "lessons": [
+            "label": "第七单元 森赴日本",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第八单元 余暇",
-            "lessons": [
+            "label": "第八单元 余暇",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第九单元 小野赴北京",
-            "lessons": [
+            "label": "第九单元 小野赴北京",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第十单元 浏览北京",
-            "lessons": [
+            "label": "第十单元 浏览北京",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第十一单元 在北京的工作情况",
-            "lessons": [
+            "label": "第十一单元 在北京的工作情况",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "第十二单元 新的拓展",
-            "lessons": [
+            "label": "第十二单元 新的拓展",
+            "children": [
                 {
-                    "title": "第一课 小李是中国人",
-                    "patterns": [
+                    "label": "第一课 小李是中国人",
+                    "children": [
                         {
-                            "title": "~ ha desu ",
-                            "content": []
+                            "label": "~ ha desu ",
+                            "id": []
                         }
                     ]
                 }
