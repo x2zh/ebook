@@ -1,29 +1,20 @@
 <template>
     <div id="app">
-        <el-container>
-            <el-header>
-                {{book_title}}
-                <div id="nav">
-                    <router-link to="/">Home</router-link>
-                    |
-                    <router-link to="/about">About</router-link>
-                </div>
-            </el-header>
-            <el-container>
-                <el-aside width="400px">
-                    <el-tree
-                            :data="catalog"
-                            :props="defaultProps"
-                            accordion
-                            @node-click="handleNodeClick"></el-tree>
-                </el-aside>
-                <el-container>
-                    <el-main>
-                        <router-view></router-view>
-                    </el-main>
-                </el-container>
-            </el-container>
-        </el-container>
+        <header style="text-align: center;height: 15vh;">
+            <h1>{{book_title}}</h1>
+        </header>
+        <div style="display: flex;flex-direction: row;justify-content: center;height: 85vh">
+            <aside style="height: 100%;overflow-y: auto; width: 25vw; margin-right: 5vw;">
+                <el-tree
+                        :data="catalog"
+                        :props="defaultProps"
+                        highlight-current
+                        @node-click="handleNodeClick"></el-tree>
+            </aside>
+            <main>
+                <router-view></router-view>
+            </main>
+        </div>
     </div>
 </template>
 
@@ -60,4 +51,14 @@
 
 
 <style>
+    #app {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    body {
+        padding: 0;
+        border: 0;
+        margin: 0;
+    }
 </style>

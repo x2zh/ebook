@@ -1,7 +1,8 @@
 <template>
     <div class="home">
         <h1>{{video_title}}</h1>
-        <video :src=video_url controls="controls">您的浏览器不支持 video 标签。</video>
+        <video controls autoplay :src="video_url">
+        </video>
         <el-pagination
                 background
                 layout="prev, pager, next"
@@ -27,7 +28,7 @@
                 this.pointer = e;
             },
         },
-        computed:{
+        computed: {
             video_url: function () {
                 return `https://vibook.oss-cn-beijing.aliyuncs.com/video/${this.id}-${this.pointer}.mp4`;
             }
@@ -35,3 +36,11 @@
         props: ["id",],
     };
 </script>
+
+<style>
+    video {
+        object-fit: fill;
+        width: 720px;
+        height: 400px;
+    }
+</style>
