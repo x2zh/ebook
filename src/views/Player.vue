@@ -19,7 +19,6 @@
         name: "player",
         data() {
             return {
-                video_title: "hello",
                 pointer: "1",
             }
         },
@@ -33,7 +32,7 @@
                 return `https://vibook.oss-cn-beijing.aliyuncs.com/video/${this.id}-${this.pointer}.mp4`;
             }
         },
-        props: ["id",],
+        props: ["id","video_title"],
     };
 </script>
 
@@ -42,5 +41,8 @@
         object-fit: fill;
         width: 720px;
         height: 400px;
+    }
+    .home {
+        padding: 0 10vw 0 5vw;
     }
 </style>
