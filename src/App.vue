@@ -3,7 +3,9 @@
         <el-row>
             <el-col :span="24" class="header">
                 <header style="text-align: center;">
-                    <a href="javascript:void(0);"><h1>{{book_title}}</h1></a>
+                    <router-link to="/">
+                        <h1>{{book_title}}</h1>
+                    </router-link>
                 </header>
             </el-col>
         </el-row>
