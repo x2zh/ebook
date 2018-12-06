@@ -10,14 +10,14 @@
             </el-col>
         </el-row>
         <el-row>
-            <el-col :span="8" class="left">
+            <el-col :lg="8" class="left">
                 <el-tree
                         :data="catalog"
                         :props="defaultProps"
                         highlight-current
                         @node-click="handleNodeClick"></el-tree>
             </el-col>
-            <el-col :span="16" class="right">
+            <el-col :lg="16" class="right">
                 <router-view :video_title="video_title"></router-view>
             </el-col>
         </el-row>
@@ -75,7 +75,7 @@
     .left {
         overflow-x: hidden;
         overflow-y: scroll;
-        height: 80vh;
+        max-height: 80vh;
         margin-top: 2vh;
         padding-right: 4vw;
         box-shadow: 1px 0 0 0 ;
